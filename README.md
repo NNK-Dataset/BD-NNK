@@ -1,7 +1,7 @@
 # INTRODUCTION OF COVID-NEWS-US-NNKAND
 
 # COVID-NEWS-BD-NNKDATASET
-
+For citeation : Sadman, N. (2020). INTRODUCTION OF COVID-NEWS-US-NNK AND COVID-NEWS-BD-NNK DATASET. doi:10.13140/RG.2.2.19443.96802
 To collaborate  
  USA: https://docs.google.com/forms/d/1dYvEZSRIygNq3oYxLMjO4_ptrx4j3CkUSaSEOsxrFJE/edit?usp=sharing
  
